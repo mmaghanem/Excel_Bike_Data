@@ -1,19 +1,19 @@
-# Bike Buyers Analysis Project
-This project aims to analyze demographic data to understand the factors influencing bike purchases. The dataset contains detailed information about individuals, including their income, marital status, education, and whether they have purchased a bike.
+# Bike Buyers Analysis Dashboard
+This Excel Dashboard aims to analyze demographic data to understand the factors influencing bike purchases. The dataset contains detailed information about individuals, including their income, marital status, education, and whether they have purchased a bike.
 
 #### Table of Contents
-1. Introduction
-2. Data Structure
-3. Data Preparation and Processing
-4. Analysis and Insights
-5. Visualization and Dashboard
-6. Benefits of the Analysis
+1. [Introduction](#introduction)
+2. [Data Structure](#data-structure)
+3. [Data Preparation and Processing](#data-preparation-and-processing)
+4. [Analysis and Insights](#analysis-and-insights)
+5. [Visualization and Dashboard](#visualization-and-dashboard)
+6. [Benefits of the Analysis](#benefits-of-the-analysis)
 
 ## Introduction
-This project analyzes the purchasing patterns of bike buyers based on various demographic attributes. The insights derived from this analysis help in understanding customer segments better, aiding targeted marketing and strategic decision-making.
+This Excel Dashboard analyzes the purchasing patterns of bike buyers based on various demographic attributes. The insights derived from this analysis help in understanding customer segments better, aiding targeted marketing and strategic decision-making.
 
 ## Data Structure
-The project utilizes a dataset organized into four main sheets:
+The dashboard utilizes a dataset organized into four main sheets:
 
 1. bike_buyers: Contains raw data with detailed demographic and purchasing information.
 2. Working Sheet: Intermediate data with additional processed features for better analysis.
